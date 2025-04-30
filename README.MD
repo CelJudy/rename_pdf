@@ -14,7 +14,7 @@ then execute in terminal to validate that node installed correctly
 
 ## Prepare project
 
-Paste original pdf files in original path
+Paste original pdf files in `original` path
 
 ### Execute project
 
@@ -30,14 +30,14 @@ Paste original pdf files in original path
   node index.js
 ```
 
-- when an file ranamed successfully, will see in terminal a message like
+- when an file renamed successfully, will see in terminal a message like
 
-```bash
+```
   File copied successfully from original/file.pdf to new/NEW NAME.pdf
 ```
 
-- when an email had an error, will see in terminal some like:
+- when an file had an error, will see in terminal some like:
 
-```bash
+```
   An error occurred sourcePath in file original/file.pdf
 ```
